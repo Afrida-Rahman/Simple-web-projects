@@ -1,0 +1,38 @@
+body{
+
+	background-image: url("pic.jpg");
+    background-repeat:  no-repeat;
+    background-size:100% 720px;
+    color: black;
+}
+.cont{
+    width:100px;
+    height:650px;
+    text-align: center;
+    background-color:rgba(52, 73, 94, 0.7);
+    border-radius:0px;
+    margin:0px;
+    margin-top: 0px;
+    
+}
+.h{
+	border-radius: 4px;
+    text-align:center;
+    width:1500px;
+    height:40px;
+    background-color: rgba(0,128,0,.3);
+    color: #fff;
+}
+p{
+	color: #fff;
+}
+a{
+    color: #fff;
+}
+.tb{
+    background-color: #2ECC71;
+    width: 350px;
+    height: 50px;
+    color:white;
+    text-align: center;
+}
